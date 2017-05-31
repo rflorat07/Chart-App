@@ -1,4 +1,4 @@
-# Shopping Cart Application Ionic 3
+# Chart Application Ionic 3
 
 
 ## Getting Started
@@ -9,7 +9,7 @@
 * Run `npm install` in a terminal from the project root.
 * Run `ionic serve` in a terminal from the project root.
 
-## Then, to run it, cd into Chart-App and run:
+### Then, to run it, cd into Chart-App and run:
 
 ```bash
 $ ionic cordova platform add ios
